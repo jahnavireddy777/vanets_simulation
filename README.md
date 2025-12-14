@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VANET Simulation Project
 
 This project simulates a Vehicular Ad-Hoc Network (VANET) using SUMO and Python (TraCI). It features:
@@ -47,3 +48,6 @@ The simulation will visualize the routing path in the SUMO window:
 - `send_message.py`: Script for sending interactive routing requests.
 - `src/simulation/launch_sumo_traci.py`: Main simulation loop and logic.
 - `src/ai_core/`: AI models for clustering (K-Means/Fitness) and routing (DRLIQ, AQL).
+=======
+# vanets_simulation
+>>>>>>> 0b161652846cdcee970892aa18adcc3410bb028d
