@@ -422,3 +422,145 @@ Cluster 22: CH=912, Fitness=0.42, Size=9
 Cluster 23: CH=989, Fitness=0.58, Size=5
 Cluster 24: CH=847, Fitness=0.49, Size=19
 Checking for request at: C:\Users\THUMMA JAHNAVI\OneDrive\Documents\Desktop\VANET_Simulation\src\simulation\../../data/routing_request.json
+
+--- Step 750: Clustering Update ---
+Total Vehicles: 289
+Cluster 0: CH=823, Fitness=0.65, Size=7
+Cluster 1: CH=687, Fitness=0.65, Size=7
+Cluster 2: CH=997, Fitness=0.65, Size=5
+Cluster 3: CH=954, Fitness=0.46, Size=15
+Cluster 4: CH=904, Fitness=0.73, Size=13
+Cluster 5: CH=884, Fitness=0.83, Size=12
+Cluster 6: CH=917, Fitness=0.37, Size=8
+Cluster 7: CH=933, Fitness=0.67, Size=4
+Cluster 8: CH=923, Fitness=0.67, Size=5
+Cluster 9: CH=928, Fitness=0.68, Size=7
+Cluster 10: CH=977, Fitness=0.79, Size=34
+Cluster 11: CH=996, Fitness=0.42, Size=7
+Cluster 12: CH=943, Fitness=0.54, Size=10
+Cluster 13: CH=938, Fitness=0.81, Size=15
+Cluster 14: CH=944, Fitness=0.69, Size=8
+Cluster 15: CH=961, Fitness=0.46, Size=12
+Cluster 16: CH=947, Fitness=0.65, Size=14
+Cluster 17: CH=919, Fitness=0.38, Size=3
+Cluster 18: CH=783, Fitness=0.71, Size=6
+Cluster 19: CH=757, Fitness=0.72, Size=6
+Cluster 20: CH=945, Fitness=0.49, Size=13
+Cluster 21: CH=871, Fitness=0.64, Size=47
+Cluster 22: CH=980, Fitness=0.42, Size=8
+Cluster 23: CH=995, Fitness=0.41, Size=11
+Cluster 24: CH=849, Fitness=0.63, Size=12
+
+--- Step 800: Clustering Update ---
+Total Vehicles: 244
+Cluster 0: CH=823, Fitness=0.58, Size=6
+Cluster 1: CH=923, Fitness=0.61, Size=7
+Cluster 2: CH=877, Fitness=0.66, Size=5
+Cluster 3: CH=904, Fitness=0.34, Size=2
+Cluster 4: CH=999, Fitness=0.28, Size=9
+Cluster 5: CH=977, Fitness=0.53, Size=58
+Cluster 6: CH=846, Fitness=0.34, Size=11
+Cluster 7: CH=884, Fitness=0.61, Size=3
+Cluster 8: CH=933, Fitness=0.68, Size=6
+Cluster 9: CH=980, Fitness=0.31, Size=6
+Cluster 10: CH=687, Fitness=0.57, Size=8
+Cluster 11: CH=946, Fitness=0.59, Size=8
+Cluster 12: CH=997, Fitness=0.66, Size=4
+Cluster 13: CH=532, Fitness=0.52, Size=23
+Cluster 14: CH=930, Fitness=0.63, Size=16
+Cluster 15: CH=938, Fitness=0.63, Size=8
+Cluster 16: CH=868, Fitness=0.27, Size=10
+Cluster 17: CH=976, Fitness=0.28, Size=6
+Cluster 18: CH=853, Fitness=0.61, Size=10
+Cluster 19: CH=847, Fitness=0.25, Size=5
+Cluster 20: CH=673, Fitness=0.66, Size=3
+Cluster 21: CH=899, Fitness=0.54, Size=12
+Cluster 22: CH=881, Fitness=0.48, Size=7
+Cluster 23: CH=585, Fitness=0.70, Size=4
+Cluster 24: CH=481, Fitness=0.60, Size=7
+Checking for request at: C:\Users\THUMMA JAHNAVI\OneDrive\Documents\Desktop\VANET_Simulation\src\simulation\../../data/routing_request.json
+
+--- Step 850: Clustering Update ---
+Total Vehicles: 216
+Cluster 0: CH=972, Fitness=0.52, Size=9
+Cluster 1: CH=736, Fitness=0.56, Size=2
+Cluster 2: CH=976, Fitness=0.30, Size=8
+Cluster 3: CH=988, Fitness=0.29, Size=8
+Cluster 4: CH=986, Fitness=0.58, Size=13
+Cluster 5: CH=727, Fitness=0.43, Size=6
+Cluster 6: CH=933, Fitness=0.63, Size=2
+Cluster 7: CH=979, Fitness=0.32, Size=9
+Cluster 8: CH=858, Fitness=0.58, Size=46
+Cluster 9: CH=997, Fitness=0.66, Size=5
+Cluster 10: CH=894, Fitness=0.30, Size=9
+Cluster 11: CH=770, Fitness=0.58, Size=4
+Cluster 12: CH=884, Fitness=0.58, Size=5
+Cluster 13: CH=808, Fitness=0.21, Size=3
+Cluster 14: CH=515, Fitness=0.52, Size=6
+Cluster 15: CH=795, Fitness=0.23, Size=3
+Cluster 16: CH=952, Fitness=0.56, Size=6
+Cluster 17: CH=868, Fitness=0.23, Size=1
+Cluster 18: CH=870, Fitness=0.59, Size=21
+Cluster 19: CH=786, Fitness=0.65, Size=5
+Cluster 20: CH=471, Fitness=0.59, Size=5
+Cluster 21: CH=923, Fitness=0.60, Size=5
+Cluster 22: CH=697, Fitness=0.59, Size=24
+Cluster 23: CH=783, Fitness=0.57, Size=8
+Cluster 24: CH=924, Fitness=0.75, Size=3
+
+--- Step 900: Clustering Update ---
+Total Vehicles: 193
+Cluster 0: CH=785, Fitness=0.66, Size=1
+Cluster 1: CH=764, Fitness=0.66, Size=2
+Cluster 2: CH=884, Fitness=0.84, Size=7
+Cluster 3: CH=924, Fitness=0.84, Size=6
+Cluster 4: CH=783, Fitness=0.67, Size=2
+Cluster 5: CH=756, Fitness=0.68, Size=2
+Cluster 6: CH=964, Fitness=0.61, Size=15
+Cluster 7: CH=949, Fitness=0.71, Size=2
+Cluster 8: CH=840, Fitness=0.75, Size=8
+Cluster 9: CH=881, Fitness=0.73, Size=5
+Cluster 10: CH=938, Fitness=0.70, Size=6
+Cluster 11: CH=765, Fitness=0.79, Size=3
+Cluster 12: CH=952, Fitness=0.76, Size=9
+Cluster 13: CH=989, Fitness=0.41, Size=5
+Cluster 14: CH=732, Fitness=0.71, Size=1
+Cluster 15: CH=872, Fitness=0.43, Size=8
+Cluster 16: CH=585, Fitness=0.66, Size=7
+Cluster 17: CH=997, Fitness=0.75, Size=3
+Cluster 18: CH=790, Fitness=0.31, Size=4
+Cluster 19: CH=529, Fitness=0.45, Size=8
+Cluster 20: CH=870, Fitness=0.66, Size=36
+Cluster 21: CH=933, Fitness=0.85, Size=5
+Cluster 22: CH=954, Fitness=0.45, Size=6
+Cluster 23: CH=727, Fitness=0.34, Size=3
+Cluster 24: CH=874, Fitness=0.76, Size=39
+Checking for request at: C:\Users\THUMMA JAHNAVI\OneDrive\Documents\Desktop\VANET_Simulation\src\simulation\../../data/routing_request.json
+
+--- Step 950: Clustering Update ---
+Total Vehicles: 178
+Cluster 0: CH=787, Fitness=0.70, Size=4
+Cluster 1: CH=781, Fitness=0.78, Size=7
+Cluster 2: CH=765, Fitness=0.37, Size=4
+Cluster 3: CH=930, Fitness=0.78, Size=19
+Cluster 4: CH=904, Fitness=0.68, Size=25
+Cluster 5: CH=986, Fitness=0.67, Size=6
+Cluster 6: CH=877, Fitness=0.52, Size=3
+Cluster 7: CH=884, Fitness=0.77, Size=6
+Cluster 8: CH=792, Fitness=0.71, Size=2
+Cluster 9: CH=319, Fitness=0.46, Size=1
+Cluster 10: CH=702, Fitness=0.71, Size=3
+Cluster 11: CH=980, Fitness=0.46, Size=1
+Cluster 12: CH=978, Fitness=0.72, Size=43
+Cluster 13: CH=997, Fitness=0.42, Size=1
+Cluster 14: CH=975, Fitness=0.77, Size=7
+Cluster 15: CH=783, Fitness=0.60, Size=6
+Cluster 16: CH=924, Fitness=0.76, Size=3
+Cluster 17: CH=775, Fitness=0.76, Size=5
+Cluster 18: CH=786, Fitness=0.53, Size=6
+Cluster 19: CH=923, Fitness=0.36, Size=4
+Cluster 20: CH=437, Fitness=0.22, Size=4
+Cluster 21: CH=954, Fitness=0.42, Size=5
+Cluster 22: CH=885, Fitness=0.39, Size=3
+Cluster 23: CH=254, Fitness=0.12, Size=1
+Cluster 24: CH=952, Fitness=0.81, Size=9
